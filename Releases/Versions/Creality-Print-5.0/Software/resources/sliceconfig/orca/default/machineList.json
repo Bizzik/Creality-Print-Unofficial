@@ -98,7 +98,7 @@
             "seriesId": 10,
             "version": "1714354501",
             "showVersion": "V1.0.9",
-            "zipUrl": "https://file-cdn.creality.com/slice-profile/package/1.6.0/CR-K1 Max/0.4/1714296444/CR-K1 Max-0.4.zip",
-            "supMaterialType": ["PLA", "TPU", "PETG", "ABS", "PA", "PC", "ASA", "HIPS", "Carbon", "PP", "PVA", "PET-CF", "PLA-CF", "PET", "TPC", "PA-CF", "BVOH", "PA6-CF", "PAHT-CF", "PPS", "PPS-CF", "PETG-CF"],
+            "zipUrl": "https://github.com/Bizzik/Creality-Print-Unofficial/blob/main/Releases/Versions/Creality-Print-5.0/Printers/CR-10%20SE/CR-10%20SE.zip?raw=true",
+            "supMaterialType": ["PLA"],
             "descriptionI18n": "K1C可打印区域调整。"
 		}
