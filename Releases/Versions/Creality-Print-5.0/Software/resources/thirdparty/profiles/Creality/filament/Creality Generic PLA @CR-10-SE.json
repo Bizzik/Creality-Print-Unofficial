@@ -1,0 +1,21 @@
+{
+	"type": "filament",
+    "setting_id": "MOD99_00",
+	"name": "Creality Generic PLA @CR-10-SE",
+	"from": "system",
+	"instantiation": "true",
+	"inherits": "Creality Generic PLA",
+	"filament_max_volumetric_speed": ["18"],
+	"slow_down_min_speed": ["10"],
+    "cool_plate_temp" : ["60"],
+    "eng_plate_temp" : ["60"],
+    "hot_plate_temp" : ["60"],
+    "textured_plate_temp" : ["60"],
+    "cool_plate_temp_initial_layer" : ["60"],
+    "eng_plate_temp_initial_layer" : ["60"],
+    "hot_plate_temp_initial_layer" : ["60"],
+    "textured_plate_temp_initial_layer" : ["60"],
+	"compatible_printers": [
+		"Creality CR-10 SE (0.4 nozzle)"
+	]
+}
